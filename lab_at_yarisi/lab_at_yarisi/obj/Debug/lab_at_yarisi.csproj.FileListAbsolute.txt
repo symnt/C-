@@ -1,0 +1,10 @@
+C:\Users\Section1\Desktop\Introduction C#\Windows\lab_at_yarisi\lab_at_yarisi\bin\Debug\lab_at_yarisi.exe.config
+C:\Users\Section1\Desktop\Introduction C#\Windows\lab_at_yarisi\lab_at_yarisi\bin\Debug\lab_at_yarisi.exe
+C:\Users\Section1\Desktop\Introduction C#\Windows\lab_at_yarisi\lab_at_yarisi\bin\Debug\lab_at_yarisi.pdb
+C:\Users\Section1\Desktop\Introduction C#\Windows\lab_at_yarisi\lab_at_yarisi\obj\Debug\lab_at_yarisi.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\Introduction C#\Windows\lab_at_yarisi\lab_at_yarisi\obj\Debug\lab_at_yarisi.Form1.resources
+C:\Users\Section1\Desktop\Introduction C#\Windows\lab_at_yarisi\lab_at_yarisi\obj\Debug\lab_at_yarisi.Properties.Resources.resources
+C:\Users\Section1\Desktop\Introduction C#\Windows\lab_at_yarisi\lab_at_yarisi\obj\Debug\lab_at_yarisi.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\Introduction C#\Windows\lab_at_yarisi\lab_at_yarisi\obj\Debug\lab_at_yarisi.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\Introduction C#\Windows\lab_at_yarisi\lab_at_yarisi\obj\Debug\lab_at_yarisi.exe
+C:\Users\Section1\Desktop\Introduction C#\Windows\lab_at_yarisi\lab_at_yarisi\obj\Debug\lab_at_yarisi.pdb
